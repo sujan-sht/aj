@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Dec 2021 16:36:58 at https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/index.html -O1 "E:\admin templates\ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_444444_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_555555_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_ffffff_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_777620_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_cc0000_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/images/ui-icons_777777_256x240.png (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/plugins/jquery-ui.min.css)
+16:42:31	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/main-slider-banner/3.jpg (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/css/demo1.css)
+16:42:37	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/banner.html (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/login.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/*|UNSUB|* (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/email-template-confirm-3.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/www.example.com (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/email-template-confirm-4.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/{{ unsubscribe_link }} (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/email-template-offers-3.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/product-image/pro_1/1_1.jpg (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/user-invoice.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/product-image/pro_1/2_1.jpg (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/user-invoice.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/product-image/pro_1/3_1.jpg (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/user-invoice.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/images/product-image/pro_1/4_1.jpg (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/user-invoice.html)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/Use of number-typed values is deprecated in jQuery.fn.css (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/js/vendor/jquery-migrate-3.3.0.min.js)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/e (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/js/plugins/swiper-bundle.min.js)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/this.params.url (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/js/plugins/swiper-bundle.min.js)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/GET (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/js/vendor/particles.min.js)
+16:42:38	Error: 	"Not Found" (404) at link https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/Error pJS - No image.src (from https://loopinfosol.in/themeforest/ekka-html-v2/ekka-html/assets/js/vendor/particles.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 40 seconds : 452 links scanned, 431 files written (41704253 bytes overall) [30828647 bytes received at 90672 bytes/sec], 13140952 bytes transferred using HTTP compression in 175 files, ratio 13%, 34.7 requests per connection
+(20 errors, 0 warnings, 0 messages)
